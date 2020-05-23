@@ -8,9 +8,10 @@ if array[count].is_a?(Integer)
 else
   array2 << array[count]
   count2+=1
-end
-array2.count 
-  
+  end
+    array2.count = total 
+    
+  total 
 end
 
 def count_empty_strings(array)
