@@ -9,7 +9,7 @@ count2 = 0
   array2 << array[count2]
   count2+=1
   end
-    array2.count 
+  puts   array2.count 
 end
 end
 
