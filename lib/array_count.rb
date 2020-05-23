@@ -9,8 +9,9 @@ count2 = 0
   array2 << array[count2]
   count2+=1
   end
-  puts   array2.count 
+
 end
+array.count
 end
 
 def count_empty_strings(array)
