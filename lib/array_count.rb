@@ -1,5 +1,7 @@
 def count_strings(array)
 
+array2 = []
+count2 = 0
 if array
   
 end
