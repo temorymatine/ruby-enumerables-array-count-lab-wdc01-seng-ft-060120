@@ -1,5 +1,6 @@
 def count_strings(array)
-puts array.count
+
+
   
 end
 
