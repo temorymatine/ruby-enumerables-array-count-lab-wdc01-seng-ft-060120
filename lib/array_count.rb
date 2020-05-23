@@ -9,6 +9,7 @@ count2 = 0
            
               array2 << array[count2]
               count2+=1 
+              
           else
              count2+=1
          end
