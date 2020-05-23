@@ -28,7 +28,7 @@ count2 = 0
 
   while array.count > count2 
   
-         if array[count2].any?("")
+         if array[count2] == ""
            
               array2 << array[count2]
               count2+=1 
