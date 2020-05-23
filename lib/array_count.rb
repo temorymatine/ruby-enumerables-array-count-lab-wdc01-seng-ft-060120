@@ -21,5 +21,5 @@ array2.count
 end
 
 def count_empty_strings(array)
-  array.count
+  a
 end
