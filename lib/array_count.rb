@@ -1,6 +1,6 @@
 def count_strings(array)
 
-
+if array
   
 end
 
