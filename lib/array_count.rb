@@ -11,7 +11,7 @@ count2 = 0
   end
     array2.count = total 
     
-  total 
+  puts total 
 end
 end
 
