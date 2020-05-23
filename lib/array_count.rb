@@ -11,7 +11,7 @@ count2 = 0
   end
 
 end
-array.count
+array2.count
 end
 
 def count_empty_strings(array)
