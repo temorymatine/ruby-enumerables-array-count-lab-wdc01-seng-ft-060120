@@ -6,6 +6,7 @@ count2 = 0
   while array.count > count2 
   
          if array[count2].is_a?(String)
+           
               array2 << array[count2]
               count2+=1 
           else
